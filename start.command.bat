@@ -1,6 +1,5 @@
-
-desktop nano 
-"demo executable"
+Last login: Sun Apr 29 14:20:39 on ttys001
+Candices-iMac:~ newkids$ desktop nano "demo executable"
 @echo off
 cd..
 rem Read the contents of PPYTHON_PATH into %PPYTHON_PATH%:
